@@ -1,1 +1,13 @@
-
+body {
+  background: #000000;
+  color: #ffffff;
+  text-align: left;
+}
+@media print {
+  .print-only {
+    display: block;
+  }
+}
+canvas {
+  border: 2px solid #fff;
+}
