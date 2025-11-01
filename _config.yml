@@ -1,8 +1,0 @@
-title: "Text Adventure"
-description: "A project by Crabsquid936"
-baseurl: ""
-url: "https://crabsquid936.github.io/Text-Adventure"
-markdown: kramdown
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme 
